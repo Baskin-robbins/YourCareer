@@ -25,6 +25,7 @@
                     <li><a href="" class="main">관련 도서</a></li>
                     <li><a href="" class="main">관련 자격증</a></li>
                     <li><a href="" class="main">채용 정보</a></li>
+                    <li><a href="/board" class="main">게시판</a></li>
                 </ul>
             </div>
         </nav>
